@@ -1,4 +1,4 @@
-# customer-manager
+# todo-app
 
 ## Project setup
 ```
